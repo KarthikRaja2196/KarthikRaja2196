@@ -278,39 +278,6 @@ Responsible for designing, building and maintaining automated test solutions for
 
 ---
 
-## Certifications
-
-<div align="center">
-
-### ISTQB
-
-<img src="https://img.shields.io/badge/ISTQB-Certified%20Tester%20Foundation%20Level-6D28D9?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-<img src="https://img.shields.io/badge/ISTQB-Test%20Automation%20Engineering-6D28D9?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-4F46E5?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Java%20SE%20Programmer-7C3AED?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### Postman
-
-<img src="https://img.shields.io/badge/Postman-API%20Fundamentals%20Student%20Expert-312E81?style=for-the-badge&logo=postman&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Software%20Testing-5B21B6?style=for-the-badge&logo=bookstack&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-4338CA?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</div>
-
----
-
 ## Coding Profiles
 
 <div align="center">
